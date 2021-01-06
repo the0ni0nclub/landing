@@ -6,8 +6,7 @@ It's lonely at the top. We want to grow an organic community and eventually make
 <span id="k">$0NI</span> is an ERC-20 token giving you the access to our private community that will most likely build you a fortune. Feel comfortable to pass and never remember, but be sure to make your own choice.<!-- qwertyuioqert123456789023456789 --><!-- qwertyuioqert123456789023456789 -->
 
 Total supply 500
-150 @ 2.5 ETH, Jan 7 - Jan 14, <span id="a">0x77F2F476E43496E4F530B7DC5663cb73ecb27381</span>
-100 @ 5 ETH, Jan 15 - Jan 22, TBA
+250 @ 1 ETH, Jan 7 - Jan 14, <span id="a">0x77F2F476E43496E4F530B7DC5663cb73ecb27381</span>
 Listing TBA 
 
 All funds are going to charity. We don't give a fuck about money 😛
