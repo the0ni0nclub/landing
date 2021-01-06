@@ -4,7 +4,7 @@ Welcome to <span id="a">The 0NI0N Club</span>. <!-- sjkfhskjf -->
 It's lonely at the top. We want to grow an organic community and eventually make our common dream come true - Rob the Rich, Give to the Poor. Join us. <br> 
 <!-- qwertyuioqert123456789023456789 -->
 <!-- qwertyuioqert123456789023456789 -->
-<span id="k">$0NI0N</span> is an ERC-20 token giving you the access to our private community that's most likely will build you a fortune. Feel comfortable to pass and never remember, but be sure to make your own choice.
+<span id="k">$0NI0N</span> is an ERC-20 token giving you the access to our private community that will most likely build you a fortune. Feel comfortable to pass and never remember, but be sure to make your own choice.
 <!-- qwertyuioqert123456789023456789 -->
 <!-- qwertyuioqert123456789023456789 -->
 Total supply 500
