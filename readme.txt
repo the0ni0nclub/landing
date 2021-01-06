@@ -13,4 +13,5 @@ Total supply is <span id="a">500</span> tokens and it will never change - <span 
 Listing TBA <br>
 <!-- qwertyuioqert123456789023456789 -->
 <!-- qwertyuioqert123456789023456789 -->
-Every unique address buying an <span id="a">$0NI0N</span> will shortly receive a zero ETH transaction with details on how to proceed in the input data (tip: view as UTF-8). See you in a better future.
+Every unique address buying an <span id="a">$0NI0N</span> will shortly receive a zero ETH transaction with details on how to proceed in the input data (tip: view as UTF-8). 
+<!-- qwertyuioqert123456789023456789 --><!-- qwertyuioqert123456789023456789 --><!-- qwertyuioqert123456789023456789 --><!-- qwertyuioqert123456789023456789 --><!-- qwertyuioqert123456789023456789 --><!-- qwertyuioqert123456789023456789 --><!-- qwertyuioqert123456789023456789 -->See you in a better future.
