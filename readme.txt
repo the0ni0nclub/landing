@@ -1,12 +1,16 @@
 <span id="a">anon@the0ni0nclub</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->readme.txt<br/><br/>
-Welcome to <span id="k">The $0NI0N Club</span>. <!-- sjkfhskjf -->
+Welcome to <span id="a">The 0NI0N Club</span>. <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+It's lonely at the top. We got top-notch traders, data scientists and insiders onboard and we got blackjack & hookers.
+Now we want to grow an organic community and eventually make our common dream come true - Rob the Rich, Give to the Poor.
+Join us.
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<span id="k">$0NI0N</span> is an ERC-20 token giving you the access to our private community. <br>
+Total supply is 500 tokens and it will never change - <span id="k">$0NI0N</span> is not mintable. <br> <br>
 
-<p>Cheers!</p>
+300 tokens are available at the first private sale, 2.5 ETH = 1 ONION. <br>
+150 tokens will be available at the second private sale, 5 ETH = 1 ONION. <br>
+After two rounds of private sale will be complete, 45 tokens will be listed on Uniswap just for lulz. <br>
+The other 5 tokens will remain a mystery. <br> <br>
+
+Cheers!
