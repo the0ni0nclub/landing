@@ -11,6 +11,7 @@ Total supply 500
 150 @ 2.5 ETH, Jan 7 - Jan 14, <span id="a">0x77F2F476E43496E4F530B7DC5663cb73ecb27381</span>
 100 @ 5 ETH, Jan 15 - Jan 22, TBA
 Listing TBA <br>
+All funds are going to charity. We don't give a fuck about money 😛
 <!-- qwertyuioqert123456789023456789 -->
 <!-- qwertyuioqert123456789023456789 -->
 Every unique address buying an <span id="a">$0NI0N</span> will shortly receive a zero ETH transaction with details on how to proceed in the input data (tip: view as UTF-8). <br>
